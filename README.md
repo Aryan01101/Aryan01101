@@ -1,37 +1,216 @@
-# Hey, I'm Aryan 👋
+<div align="center">
 
-**Software Engineer** | Recent grad from University of Sydney | Building things that solve real problems
+<img src="./assets/panda-header.svg" width="100%"/>
 
-I'm that engineer who ships MVPs in 8 weeks, not 8 months. Currently hunting for my next role where I can own features end to end and work with teams that move fast and iterate faster.
+<br/><br/>
 
-## What I'm about
+<a href="https://www.linkedin.com/in/aryan-adhikari-3051721aa/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000&color=1A1A1A"></a>
+<a href="https://aryan-adhikari.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=000000&color=1A1A1A"></a>
+<a href="mailto:aadhikari678@outlook.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000&color=1A1A1A"></a>
+<img src="https://img.shields.io/badge/SYDNEY,_AU-000000?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF&labelColor=000000&color=1A1A1A">
 
-I build full stack applications with a focus on backend systems and ML. Recently graduated with Honours in Software Engineering, where I spent way too much time optimizing K-means clustering algorithms (23% faster convergence, if you're curious).
+<br/><br/>
 
-**Quick hits:**
-- 🏥 Led a 5 person ML team at Jacaranda Flame, processing 100k+ healthcare records
-- 🤖 Built [YAAKE](https://github.com/Aryan01101/YAAKE) - AI recruitment platform with Google Gemini integration
-- 💰 Shipped [Over-save](https://github.com/Aryan01101/OVER-SAVE) - budget tracker with gamification (because tracking expenses should be less painful)
-- 📊 Reduced manual processing by 95% with automation pipelines
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=000000&background=00000000&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C%7C+AI+Implementation;Python+%2F%2F+Java+%2F%2F+JavaScript;Full+Stack+%2B+Machine+Learning;University+of+Sydney+Honours+Graduate;Building+%7C%7C+Shipping+%7C%7C+Solving" />
 
-## Tech I work with
+</div>
 
-**Languages:** Python, JavaScript, Java, SQL  
-**Backend:** Node.js, Express, Spring Boot  
-**Frontend:** React, HTML/CSS, TailwindCSS  
-**Data:** PostgreSQL, MongoDB, scikit-learn, pandas  
-**Tools:** Git, Docker, REST APIs, JWT/OAuth2, AWS (learning)
+<br/>
 
-## Outside of code
+<img src="./assets/bamboo-divider.svg" width="100%"/>
 
-I boulder at local gyms (currently projecting V6s - same problem solving mindset, different problems). Play pickup basketball most evenings. Both taught me that the best solutions come from trying things, failing fast, and iterating.
+<br/>
 
-## Let's connect
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Looking for software engineering roles in Australia. If you're building something interesting or just want to chat about ML, full stack dev, or the best bouldering spots in Sydney, hit me up.
+<div align="center">
+<img src="./assets/panda-coding.svg" width="100%"/>
+</div>
 
-📧 aadhikari678@outlook.com | [LinkedIn](https://www.linkedin.com/in/aryan-adhikari-01101/)
+</td>
+<td width="50%" valign="top">
 
----
+<div align="center">
+<img src="./assets/panda-sitting.svg" width="90%"/>
+</div>
 
-*Currently: Applying to roles, building side projects, and trying not to overthink my job search (it's harder than it sounds)*
+</td>
+</tr>
+</table>
+
+<img src="./assets/bamboo-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## 🥋
+
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Spring](https://img.shields.io/badge/SPRING-000000?style=for-the-badge&logo=spring&logoColor=FFFFFF)
+
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
+
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF)
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF)
+![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF)
+
+</div>
+
+<br/>
+
+<img src="./assets/bamboo-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## 🎯
+
+</div>
+
+| 🤖 | 📦 |
+|---|---|
+| **[YAAKE](https://github.com/Aryan01101/YAAKE)** | AI recruitment platform with Google Gemini integration. Resume parsing, ATS scoring, mock interviews, cover letter generation. JWT auth, RBAC architecture. |
+| **ML Healthcare Analytics @ Jacaranda Flame** | Led 5-engineer team processing 100k+ healthcare records. K-means clustering optimization (23% faster convergence). Automated data pipelines. |
+
+| 💰 | 🔧 |
+|---|---|
+| **[Over-save](https://github.com/Aryan01101/OVER-SAVE)** | Gamified budget tracker. Expense tracking, savings goals, financial insights. Java + Spring Boot, OAuth2, 15+ database tables, 16 API endpoints. |
+| **Automation Pipelines** | Reduced manual processing by 95% through intelligent workflow automation and data transformation systems. |
+
+<br/>
+
+<img src="./assets/bamboo-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## 📊
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan01101&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan01101&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&border_color=000000" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan01101&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" />
+
+</div>
+
+<br/>
+
+<img src="./assets/bamboo-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## 🎓
+
+**Bachelor of Software Engineering (Honours)**
+*The University of Sydney*
+
+**Thesis:** Quantifying Urban Cooling Effectiveness: A Satellite Analysis of Sydney
+
+<br/>
+
+**🏢**
+
+Software Engineer @ Jacaranda Flame · Engineering Consulting @ Ampol
+Spatial AI Entrepreneur Intern @ EON Reality · Software Engineer @ AdGrowth Solutions
+
+<br/>
+
+**🌟**
+
+Marketing Director @ Sydney Computing Society (SYNCS)
+Student Ambassador NSW @ Engineers Australia
+PEP Program Mentor @ USYD
+
+<br/>
+
+*NSW Volunteer of the Year 2024*
+
+</div>
+
+<br/>
+
+<img src="./assets/bamboo-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## 🏃‍♂️
+
+**🧗 Bouldering** · Currently projecting V6s at local Sydney gyms
+**🏀 Basketball** · Pickup games most evenings
+*Problem solving mindset translates across domains*
+
+</div>
+
+<br/>
+
+<img src="./assets/bamboo-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<sub>SEEKING SOFTWARE ENGINEERING ROLES IN AUSTRALIA</sub>
+<sub>OPEN TO: FULL STACK · AI/ML · BACKEND SYSTEMS · STARTUP ENVIRONMENTS</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aryan01101&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=FFFFFF" />
+
+</div>
+
+<br/>
+
+<img src="./assets/bamboo-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+## 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/panda-contribution-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/panda-contribution-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/panda-contribution-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<img src="./assets/bamboo-divider.svg" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+```
+  🐼
+ /||\    Shipping code, solving problems
+  ||     One bamboo stick at a time
+ /  \
+```
+
+</div>

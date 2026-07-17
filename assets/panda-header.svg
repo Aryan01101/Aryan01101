@@ -1,0 +1,134 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes bambooSway {
+        0%, 100% { transform: rotate(-2deg); }
+        50% { transform: rotate(2deg); }
+      }
+      .panda-face { animation: float 3s ease-in-out infinite; }
+      .bamboo { animation: bambooSway 4s ease-in-out infinite; transform-origin: bottom center; }
+      .paw { animation: float 2.5s ease-in-out infinite; }
+    </style>
+
+    <!-- Bamboo pattern -->
+    <pattern id="bambooPattern" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <line x1="10" y1="0" x2="10" y2="40" stroke="#E8E8E8" stroke-width="3"/>
+      <circle cx="10" cy="10" r="2" fill="#D0D0D0"/>
+      <circle cx="10" cy="30" r="2" fill="#D0D0D0"/>
+    </pattern>
+
+    <!-- Radial gradient for depth -->
+    <radialGradient id="bgGradient" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F0F0F0;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
+  <rect width="1200" height="300" fill="url(#bambooPattern)" opacity="0.1"/>
+
+  <!-- Bamboo stalks (decorative) -->
+  <g class="bamboo" style="animation-delay: 0s;">
+    <rect x="50" y="50" width="15" height="200" rx="7" fill="#000000" opacity="0.1"/>
+    <circle cx="57.5" cy="100" r="4" fill="#000000" opacity="0.15"/>
+    <circle cx="57.5" cy="180" r="4" fill="#000000" opacity="0.15"/>
+  </g>
+  <g class="bamboo" style="animation-delay: 1s;">
+    <rect x="1130" y="70" width="15" height="180" rx="7" fill="#000000" opacity="0.1"/>
+    <circle cx="1137.5" cy="120" r="4" fill="#000000" opacity="0.15"/>
+    <circle cx="1137.5" cy="200" r="4" fill="#000000" opacity="0.15"/>
+  </g>
+
+  <!-- Left panda face -->
+  <g class="panda-face" transform="translate(150, 120)" style="animation-delay: 0.5s;">
+    <!-- Head -->
+    <circle cx="0" cy="0" r="45" fill="#FFFFFF" stroke="#000000" stroke-width="3"/>
+    <!-- Ears -->
+    <circle cx="-32" cy="-30" r="18" fill="#000000"/>
+    <circle cx="32" cy="-30" r="18" fill="#000000"/>
+    <!-- Eye patches -->
+    <ellipse cx="-15" cy="-5" rx="12" ry="16" fill="#000000"/>
+    <ellipse cx="15" cy="-5" rx="12" ry="16" fill="#000000"/>
+    <!-- Eyes -->
+    <circle cx="-15" cy="-5" r="5" fill="#FFFFFF"/>
+    <circle cx="15" cy="-5" r="5" fill="#FFFFFF"/>
+    <circle cx="-13" cy="-5" r="3" fill="#000000"/>
+    <circle cx="17" cy="-5" r="3" fill="#000000"/>
+    <!-- Nose -->
+    <ellipse cx="0" cy="8" rx="8" ry="10" fill="#000000"/>
+    <!-- Mouth -->
+    <path d="M 0,12 Q -8,18 -15,16" stroke="#000000" stroke-width="2" fill="none"/>
+    <path d="M 0,12 Q 8,18 15,16" stroke="#000000" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Right panda face (mirrored, different expression) -->
+  <g class="panda-face" transform="translate(1050, 120)" style="animation-delay: 1.2s;">
+    <!-- Head -->
+    <circle cx="0" cy="0" r="45" fill="#FFFFFF" stroke="#000000" stroke-width="3"/>
+    <!-- Ears -->
+    <circle cx="-32" cy="-30" r="18" fill="#000000"/>
+    <circle cx="32" cy="-30" r="18" fill="#000000"/>
+    <!-- Eye patches -->
+    <ellipse cx="-15" cy="-5" rx="12" ry="16" fill="#000000"/>
+    <ellipse cx="15" cy="-5" rx="12" ry="16" fill="#000000"/>
+    <!-- Eyes (happy/closed) -->
+    <path d="M -20,-5 Q -15,0 -10,-5" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M 10,-5 Q 15,0 20,-5" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- Nose -->
+    <ellipse cx="0" cy="8" rx="8" ry="10" fill="#000000"/>
+    <!-- Mouth (happy) -->
+    <path d="M -15,18 Q 0,25 15,18" stroke="#000000" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Center: Geometric panda badge -->
+  <g transform="translate(600, 150)">
+    <!-- Hexagon border -->
+    <path d="M 0,-70 L 60,-35 L 60,35 L 0,70 L -60,35 L -60,-35 Z"
+          fill="none" stroke="#000000" stroke-width="4"/>
+
+    <!-- Simplified panda icon -->
+    <circle cx="0" cy="0" r="35" fill="#000000"/>
+    <circle cx="-20" cy="-25" r="12" fill="#000000"/>
+    <circle cx="20" cy="-25" r="12" fill="#000000"/>
+    <circle cx="0" cy="0" r="28" fill="#FFFFFF"/>
+    <ellipse cx="-10" cy="-3" rx="8" ry="11" fill="#000000"/>
+    <ellipse cx="10" cy="-3" rx="8" ry="11" fill="#000000"/>
+    <circle cx="-10" cy="-3" r="3" fill="#FFFFFF"/>
+    <circle cx="10" cy="-3" r="3" fill="#FFFFFF"/>
+    <ellipse cx="0" cy="8" rx="5" ry="6" fill="#000000"/>
+  </g>
+
+  <!-- Floating paw prints -->
+  <g class="paw" transform="translate(350, 80)" style="animation-delay: 0.3s;">
+    <ellipse cx="0" cy="10" rx="12" ry="15" fill="#000000" opacity="0.2"/>
+    <circle cx="-6" cy="0" r="4" fill="#000000" opacity="0.2"/>
+    <circle cx="6" cy="0" r="4" fill="#000000" opacity="0.2"/>
+    <circle cx="0" cy="-4" r="4" fill="#000000" opacity="0.2"/>
+  </g>
+
+  <g class="paw" transform="translate(850, 220)" style="animation-delay: 0.8s;">
+    <ellipse cx="0" cy="10" rx="12" ry="15" fill="#000000" opacity="0.2"/>
+    <circle cx="-6" cy="0" r="4" fill="#000000" opacity="0.2"/>
+    <circle cx="6" cy="0" r="4" fill="#000000" opacity="0.2"/>
+    <circle cx="0" cy="-4" r="4" fill="#000000" opacity="0.2"/>
+  </g>
+
+  <!-- Decorative dots pattern -->
+  <g opacity="0.15">
+    <circle cx="250" cy="50" r="2" fill="#000000"/>
+    <circle cx="270" cy="60" r="1.5" fill="#000000"/>
+    <circle cx="290" cy="55" r="2" fill="#000000"/>
+    <circle cx="950" cy="50" r="2" fill="#000000"/>
+    <circle cx="930" cy="60" r="1.5" fill="#000000"/>
+    <circle cx="910" cy="55" r="2" fill="#000000"/>
+  </g>
+
+  <!-- Bottom wave pattern -->
+  <path d="M 0,280 Q 100,260 200,280 T 400,280 T 600,280 T 800,280 T 1000,280 T 1200,280 L 1200,300 L 0,300 Z"
+        fill="#000000" opacity="0.05"/>
+</svg>

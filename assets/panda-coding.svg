@@ -1,0 +1,154 @@
+<svg width="500" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes typing {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+      @keyframes screenGlow {
+        0%, 100% { opacity: 0.6; }
+        50% { opacity: 1; }
+      }
+      @keyframes codeLine {
+        0% { width: 0; }
+        100% { width: 60px; }
+      }
+      .typing-paw { animation: typing 1s ease-in-out infinite; }
+      .screen-glow { animation: screenGlow 2s ease-in-out infinite; }
+      .code-line { animation: codeLine 3s ease-in-out infinite; }
+    </style>
+
+    <!-- Code text pattern -->
+    <pattern id="codePattern" x="0" y="0" width="80" height="20" patternUnits="userSpaceOnUse">
+      <rect width="60" height="2" x="5" y="5" fill="#000000" opacity="0.6"/>
+      <rect width="40" height="2" x="5" y="12" fill="#000000" opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="500" height="400" fill="#FAFAFA"/>
+
+  <!-- Desk -->
+  <rect x="0" y="320" width="500" height="80" fill="#E0E0E0"/>
+  <rect x="0" y="315" width="500" height="5" fill="#D0D0D0"/>
+
+  <!-- Computer/Laptop -->
+  <g transform="translate(250, 240)">
+    <!-- Laptop base -->
+    <rect x="-120" y="0" width="240" height="10" rx="5" fill="#1A1A1A"/>
+    <rect x="-110" y="5" width="220" height="5" fill="#2D2D2D"/>
+
+    <!-- Screen -->
+    <rect x="-115" y="-120" width="230" height="120" rx="5" fill="#1A1A1A"/>
+    <rect x="-110" y="-115" width="220" height="110" rx="3" fill="#0A0A0A"/>
+
+    <!-- Screen glow -->
+    <rect class="screen-glow" x="-110" y="-115" width="220" height="110" rx="3" fill="#FFFFFF" opacity="0.1"/>
+
+    <!-- Code on screen -->
+    <g opacity="0.8">
+      <rect x="-95" y="-100" width="60" height="2" fill="#FFFFFF"/>
+      <rect x="-85" y="-90" width="80" height="2" fill="#FFFFFF"/>
+      <rect x="-95" y="-80" width="40" height="2" fill="#FFFFFF" opacity="0.7"/>
+      <rect x="-85" y="-70" width="70" height="2" fill="#FFFFFF"/>
+      <rect x="-95" y="-60" width="50" height="2" fill="#FFFFFF" opacity="0.7"/>
+      <rect x="-85" y="-50" width="90" height="2" fill="#FFFFFF"/>
+      <!-- Animated cursor line -->
+      <rect class="code-line" x="-95" y="-40" width="0" height="2" fill="#FFFFFF"/>
+    </g>
+
+    <!-- Keyboard indicators -->
+    <rect x="-60" y="2" width="120" height="3" rx="1" fill="#3D3D3D"/>
+    <rect x="-50" y="2" width="2" height="3" fill="#505050"/>
+    <rect x="-30" y="2" width="2" height="3" fill="#505050"/>
+    <rect x="-10" y="2" width="2" height="3" fill="#505050"/>
+    <rect x="10" y="2" width="2" height="3" fill="#505050"/>
+    <rect x="30" y="2" width="2" height="3" fill="#505050"/>
+    <rect x="50" y="2" width="2" height="3" fill="#505050"/>
+  </g>
+
+  <!-- Panda at computer -->
+  <g transform="translate(250, 280)">
+    <!-- Body -->
+    <ellipse cx="0" cy="20" rx="50" ry="60" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+
+    <!-- Arms typing -->
+    <g class="typing-paw">
+      <ellipse cx="-60" cy="0" rx="15" ry="35" fill="#000000" transform="rotate(-20 -60 0)"/>
+      <ellipse cx="-80" cy="20" rx="12" ry="10" fill="#FFFFFF"/>
+    </g>
+    <g class="typing-paw" style="animation-delay: 0.5s;">
+      <ellipse cx="60" cy="0" rx="15" ry="35" fill="#000000" transform="rotate(20 60 0)"/>
+      <ellipse cx="80" cy="20" rx="12" ry="10" fill="#FFFFFF"/>
+    </g>
+
+    <!-- Head -->
+    <circle cx="0" cy="-30" r="40" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+
+    <!-- Ears -->
+    <circle cx="-28" cy="-52" r="16" fill="#000000"/>
+    <circle cx="28" cy="-52" r="16" fill="#000000"/>
+
+    <!-- Eye patches (focused look) -->
+    <ellipse cx="-14" cy="-35" rx="12" ry="15" fill="#000000"/>
+    <ellipse cx="14" cy="-35" rx="12" ry="15" fill="#000000"/>
+
+    <!-- Eyes (focused) -->
+    <circle cx="-14" cy="-35" r="6" fill="#FFFFFF"/>
+    <circle cx="14" cy="-35" r="6" fill="#FFFFFF"/>
+    <circle cx="-12" cy="-34" r="4" fill="#000000"/>
+    <circle cx="16" cy="-34" r="4" fill="#000000"/>
+
+    <!-- Nose -->
+    <ellipse cx="0" cy="-22" rx="6" ry="8" fill="#000000"/>
+
+    <!-- Concentrated mouth -->
+    <line x1="0" y1="-18" x2="0" y2="-12" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+    <path d="M -8,-12 L 0,-14 L 8,-12" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Coffee cup -->
+  <g transform="translate(380, 300)">
+    <!-- Cup -->
+    <rect x="0" y="0" width="40" height="50" rx="3" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+    <ellipse cx="20" cy="0" rx="20" ry="5" fill="#E8E8E8" stroke="#000000" stroke-width="2"/>
+
+    <!-- Coffee inside -->
+    <rect x="3" y="15" width="34" height="32" rx="2" fill="#3D2817"/>
+    <ellipse cx="20" cy="15" rx="17" ry="4" fill="#4A3520"/>
+
+    <!-- Steam -->
+    <g opacity="0.4">
+      <path d="M 15,-5 Q 13,-15 15,-25" stroke="#000000" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+      <path d="M 25,-5 Q 27,-15 25,-25" stroke="#000000" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <!-- Handle -->
+    <path d="M 40,15 Q 55,15 55,32 Q 55,45 40,45" stroke="#000000" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Notebook with notes -->
+  <g transform="translate(100, 300)">
+    <rect x="0" y="0" width="70" height="50" rx="2" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+    <!-- Lines on notebook -->
+    <line x1="10" y1="15" x2="60" y2="15" stroke="#000000" stroke-width="1" opacity="0.3"/>
+    <line x1="10" y1="25" x2="55" y2="25" stroke="#000000" stroke-width="1" opacity="0.3"/>
+    <line x1="10" y1="35" x2="60" y2="35" stroke="#000000" stroke-width="1" opacity="0.3"/>
+  </g>
+
+  <!-- Decorative paw print -->
+  <g transform="translate(450, 50)" opacity="0.15">
+    <ellipse cx="0" cy="10" rx="12" ry="15" fill="#000000"/>
+    <circle cx="-6" cy="0" r="5" fill="#000000"/>
+    <circle cx="6" cy="0" r="5" fill="#000000"/>
+    <circle cx="0" cy="-5" r="5" fill="#000000"/>
+  </g>
+
+  <!-- Focus lines (work intensity) -->
+  <g opacity="0.1">
+    <line x1="220" y1="120" x2="180" y2="100" stroke="#000000" stroke-width="1"/>
+    <line x1="280" y1="120" x2="320" y2="100" stroke="#000000" stroke-width="1"/>
+    <line x1="230" y1="110" x2="200" y2="80" stroke="#000000" stroke-width="1"/>
+    <line x1="270" y1="110" x2="300" y2="80" stroke="#000000" stroke-width="1"/>
+  </g>
+</svg>
