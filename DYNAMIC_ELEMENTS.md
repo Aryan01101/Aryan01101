@@ -233,9 +233,6 @@ Replace `REPO-NAME` with your repository name.
    - Docs: https://github.com/DenverCoder1/github-readme-streak-stats
    - Contribution streaks
 
-7. **Platane/snk** (GitHub Action)
-   - Docs: https://github.com/Platane/snk
-   - Contribution snake animation
 
 ---
 
@@ -305,6 +302,5 @@ Requires Vercel deployment and Spotify API
 ✅ GitHub stats (stars, commits, PRs)
 ✅ Top languages breakdown
 ✅ Streak counter
-✅ Contribution snake animation
 
-**Total: 11 unique dynamic visualizations** showing different aspects of your GitHub activity!
+**Total: 10 unique dynamic visualizations** showing different aspects of your GitHub activity!

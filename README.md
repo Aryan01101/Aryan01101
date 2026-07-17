@@ -25,10 +25,6 @@
 <br/>
 
 <!-- HERO SECTION -->
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ## Hey, I'm Aryan 👋
 
 **Software Engineer** | Recent grad from University of Sydney | Building things that solve real problems
@@ -38,106 +34,6 @@ I'm that engineer who ships MVPs in 8 weeks, not 8 months. Currently hunting for
 ### What I'm about
 
 I build full stack applications with a focus on backend systems and ML. Recently graduated with Honours in Software Engineering, where I spent way too much time optimizing K-means clustering algorithms (23% faster convergence, if you're curious).
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="./assets/tech-visual.svg" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="./assets/divider-bamboo.svg" width="100%"/>
-
-<br/>
-
-<!-- QUICK HITS -->
-<div align="center">
-
-## ⚡ Quick Hits
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 Led ML Team at Jacaranda Flame
-5-person team processing **100k+ healthcare records**. Optimized K-means clustering algorithms achieving **23% faster convergence**. Built automated data pipelines that reduced manual processing by **95%**.
-
-</td>
-<td width="50%">
-
-### 🤖 Built YAAKE AI Platform
-End-to-end AI recruitment platform with **Google Gemini integration**. Features: resume parsing, ATS scoring, mock interviews, cover letter generation. JWT auth, RBAC architecture, **10+ modules**.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 Shipped Over-save Budget Tracker
-Gamified budget tracking with expense management, savings goals, and financial insights. **Java + Spring Boot**, OAuth2, **15+ database tables**, **16 API endpoints**. Because tracking expenses should be less painful.
-
-</td>
-<td width="50%">
-
-### 🔧 Automated Workflows
-Built intelligent automation pipelines that **reduced manual processing by 95%**. Focused on data transformation, workflow optimization, and system integration.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="./assets/divider-bamboo.svg" width="100%"/>
-
-<br/>
-
-<!-- TECH STACK -->
-<div align="center">
-
-## 🥋 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00D9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00D9FF)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
-
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00D9FF)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00D9FF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00D9FF)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D9FF)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-000000?style=for-the-badge&logo=html5&logoColor=00D9FF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF)
-
-**Data & ML**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00D9FF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF)
-![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=00D9FF)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00D9FF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00D9FF)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00D9FF)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00D9FF)
-
-</div>
 
 <br/>
 
@@ -223,64 +119,6 @@ Intelligent workflow automation and data transformation systems. Reduced manual 
 
 <br/>
 
-<!-- PINNED REPO CARDS -->
-<div align="center">
-
-## 🎯 Pinned Repositories
-
-</div>
-
-<div align="center">
-
-[![YAAKE](https://github-readme-stats.vercel.app/api/pin/?username=Aryan01101&repo=YAAKE&theme=dark&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF&border_radius=10)](https://github.com/Aryan01101/YAAKE)
-[![Over-save](https://github-readme-stats.vercel.app/api/pin/?username=Aryan01101&repo=OVER-SAVE&theme=dark&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF&border_radius=10)](https://github.com/Aryan01101/OVER-SAVE)
-
-</div>
-
-<br/>
-
-<img src="./assets/divider-bamboo.svg" width="100%"/>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan01101&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=00D9FF&radius=10)
-
-</div>
-
-<br/>
-
-<img src="./assets/divider-bamboo.svg" width="100%"/>
-
-<br/>
-
-<!-- CODING TIME & PATTERNS -->
-<div align="center">
-
-## ⏱️ Coding Activity & Patterns
-
-### WakaTime Stats
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryan01101&layout=compact&theme=dark&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF&border_radius=10&langs_count=8)](https://wakatime.com/@Aryan01101)
-
-<br/>
-
-### Commit Patterns
-
-![Commit Heatmap](https://ghchart.rshah.org/00D9FF/Aryan01101)
-
-</div>
-
-<br/>
-
-<img src="./assets/divider-bamboo.svg" width="100%"/>
-
-<br/>
-
 <!-- PROFILE SUMMARY CARDS -->
 <div align="center">
 
@@ -331,20 +169,10 @@ Intelligent workflow automation and data transformation systems. Reduced manual 
 ## 📊 GitHub Analytics
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aryan01101&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=10" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan01101&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=10" />
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan01101&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=10" />
-
-<br/><br/>
-
-<!-- Contribution snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 </div>
 
@@ -419,6 +247,53 @@ When I'm not shipping code, you'll find me:
 **🏀 Basketball** — Pickup games most evenings. Team dynamics, quick decision-making under pressure, and adapting strategy on the fly.
 
 Both taught me that the best solutions come from trying things, failing fast, and iterating. Plus they keep me from turning into a keyboard permanently.
+
+<br/>
+
+<img src="./assets/divider-bamboo.svg" width="100%"/>
+
+<br/>
+
+<!-- TECH STACK -->
+<div align="center">
+
+## 🥋 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00D9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00D9FF)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00D9FF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00D9FF)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D9FF)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-000000?style=for-the-badge&logo=html5&logoColor=00D9FF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF)
+
+**Data & ML**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00D9FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF)
+![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=00D9FF)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00D9FF)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00D9FF)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00D9FF)
+
+</div>
 
 <br/>
 
