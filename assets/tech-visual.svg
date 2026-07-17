@@ -1,0 +1,99 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes codeScroll {
+        0% { transform: translateY(0); opacity: 0.2; }
+        50% { opacity: 1; }
+        100% { transform: translateY(-20px); opacity: 0.2; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 1; }
+      }
+      @keyframes circuitFlow {
+        0% { stroke-dashoffset: 200; }
+        100% { stroke-dashoffset: 0; }
+      }
+      @keyframes dataPoint {
+        0%, 100% { r: 2; opacity: 0.6; }
+        50% { r: 3; opacity: 1; }
+      }
+
+      .code-line { animation: codeScroll 3s ease-in-out infinite; }
+      .pulse-node { animation: pulse 2s ease-in-out infinite; }
+      .circuit { animation: circuitFlow 4s linear infinite; stroke-dasharray: 200; }
+      .data-point { animation: dataPoint 2s ease-in-out infinite; }
+    </style>
+
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#00D9FF;stop-opacity:0.2" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="300" fill="#FAFAFA"/>
+
+  <!-- Grid background (subtle) -->
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E0E0E0" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="300" fill="url(#grid)" opacity="0.5"/>
+
+  <!-- Code snippet visual (left side) -->
+  <g opacity="0.8">
+    <rect class="code-line" x="20" y="40" width="80" height="3" rx="1.5" fill="#000000" style="animation-delay: 0s;"/>
+    <rect class="code-line" x="30" y="55" width="100" height="3" rx="1.5" fill="#00D9FF" style="animation-delay: 0.3s;"/>
+    <rect class="code-line" x="20" y="70" width="60" height="3" rx="1.5" fill="#000000" style="animation-delay: 0.6s;"/>
+    <rect class="code-line" x="30" y="85" width="90" height="3" rx="1.5" fill="#00D9FF" style="animation-delay: 0.9s;"/>
+    <rect class="code-line" x="20" y="100" width="70" height="3" rx="1.5" fill="#000000" style="animation-delay: 1.2s;"/>
+    <rect class="code-line" x="30" y="115" width="85" height="3" rx="1.5" fill="#00D9FF" style="animation-delay: 1.5s;"/>
+  </g>
+
+  <!-- Circuit/Network visualization (center) -->
+  <g>
+    <!-- Nodes -->
+    <circle cx="200" cy="150" r="8" fill="#000000" stroke="#00D9FF" stroke-width="2"/>
+    <circle class="pulse-node" cx="150" cy="100" r="6" fill="#00D9FF" style="animation-delay: 0s;"/>
+    <circle class="pulse-node" cx="250" cy="100" r="6" fill="#00D9FF" style="animation-delay: 0.5s;"/>
+    <circle class="pulse-node" cx="150" cy="200" r="6" fill="#00D9FF" style="animation-delay: 1s;"/>
+    <circle class="pulse-node" cx="250" cy="200" r="6" fill="#00D9FF" style="animation-delay: 1.5s;"/>
+
+    <!-- Connecting lines -->
+    <line class="circuit" x1="200" y1="150" x2="150" y2="100" stroke="#00D9FF" stroke-width="2" style="animation-delay: 0s;"/>
+    <line class="circuit" x1="200" y1="150" x2="250" y2="100" stroke="#00D9FF" stroke-width="2" style="animation-delay: 0.5s;"/>
+    <line class="circuit" x1="200" y1="150" x2="150" y2="200" stroke="#00D9FF" stroke-width="2" style="animation-delay: 1s;"/>
+    <line class="circuit" x1="200" y1="150" x2="250" y2="200" stroke="#00D9FF" stroke-width="2" style="animation-delay: 1.5s;"/>
+
+    <!-- Data points flowing -->
+    <circle class="data-point" cx="175" cy="125" r="2" fill="#00D9FF" style="animation-delay: 0.2s;"/>
+    <circle class="data-point" cx="225" cy="125" r="2" fill="#00D9FF" style="animation-delay: 0.7s;"/>
+    <circle class="data-point" cx="175" cy="175" r="2" fill="#00D9FF" style="animation-delay: 1.2s;"/>
+    <circle class="data-point" cx="225" cy="175" r="2" fill="#00D9FF" style="animation-delay: 1.7s;"/>
+  </g>
+
+  <!-- Data visualization (right side) -->
+  <g>
+    <!-- Bar chart representation -->
+    <rect x="300" y="180" width="15" height="80" rx="2" fill="#000000" opacity="0.7"/>
+    <rect x="320" y="140" width="15" height="120" rx="2" fill="#00D9FF" opacity="0.8"/>
+    <rect x="340" y="160" width="15" height="100" rx="2" fill="#000000" opacity="0.7"/>
+    <rect x="360" y="120" width="15" height="140" rx="2" fill="#00D9FF" opacity="0.8"/>
+
+    <!-- Animated overlay -->
+    <rect class="pulse-node" x="300" y="50" width="80" height="2" rx="1" fill="#00D9FF" style="animation-delay: 0s;"/>
+    <rect class="pulse-node" x="300" y="65" width="60" height="2" rx="1" fill="#00D9FF" style="animation-delay: 0.5s;"/>
+  </g>
+
+  <!-- Decorative geometric elements -->
+  <g opacity="0.3">
+    <polygon points="30,250 50,230 70,250" fill="#00D9FF"/>
+    <circle cx="350" cy="40" r="15" fill="none" stroke="#00D9FF" stroke-width="2"/>
+    <rect x="15" y="15" width="20" height="20" fill="none" stroke="#000000" stroke-width="2" transform="rotate(45 25 25)"/>
+  </g>
+
+  <!-- Corner accent -->
+  <path d="M 0,0 L 40,0 L 0,40 Z" fill="url(#cyanGlow)" opacity="0.3"/>
+</svg>

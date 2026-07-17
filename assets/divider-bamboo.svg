@@ -1,0 +1,19 @@
+<svg width="1200" height="6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dividerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:0" />
+      <stop offset="20%" style="stop-color:#00D9FF;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#000000;stop-opacity:1" />
+      <stop offset="80%" style="stop-color:#00D9FF;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Main line -->
+  <rect width="1200" height="2" y="2" fill="url(#dividerGrad)"/>
+
+  <!-- Bamboo nodes (subtle) -->
+  <circle cx="400" cy="3" r="3" fill="#000000" opacity="0.4"/>
+  <circle cx="600" cy="3" r="3" fill="#00D9FF" opacity="0.5"/>
+  <circle cx="800" cy="3" r="3" fill="#000000" opacity="0.4"/>
+</svg>

@@ -1,216 +1,455 @@
 <div align="center">
 
-<img src="./assets/panda-header.svg" width="100%"/>
+<!-- Subtle panda icon -->
+<img src="./assets/panda-icon.svg" width="80"/>
+
+<br/>
+
+<!-- Contact badges -->
+<a href="https://www.linkedin.com/in/aryan-adhikari-3051721aa/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=1A1A1A"></a>
+<a href="https://aryan-adhikari.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF&labelColor=1A1A1A"></a>
+<a href="mailto:aadhikari678@outlook.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=1A1A1A"></a>
+<img src="https://img.shields.io/badge/Sydney,_AU-000000?style=for-the-badge&logo=googlemaps&logoColor=00D9FF&labelColor=1A1A1A">
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/aryan-adhikari-3051721aa/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000&color=1A1A1A"></a>
-<a href="https://aryan-adhikari.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=000000&color=1A1A1A"></a>
-<a href="mailto:aadhikari678@outlook.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000&color=1A1A1A"></a>
-<img src="https://img.shields.io/badge/SYDNEY,_AU-000000?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF&labelColor=000000&color=1A1A1A">
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=000000&background=00000000&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C%7C+AI+Implementation;Python+%2F%2F+Java+%2F%2F+JavaScript;Full+Stack+%2B+Machine+Learning;University+of+Sydney+Honours+Graduate;Building+%7C%7C+Shipping+%7C%7C+Solving" />
+<!-- Animated typing banner -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full+Stack+%2B+ML;Ships+MVPs+in+8+weeks%2C+not+8+months;Python+%2F%2F+Java+%2F%2F+JavaScript;USYD+Software+Engineering+Honours;Building+solutions+that+solve+real+problems" />
 
 </div>
 
 <br/>
 
-<img src="./assets/bamboo-divider.svg" width="100%"/>
+<img src="./assets/divider-bamboo.svg" width="100%"/>
 
 <br/>
 
+<!-- HERO SECTION -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-<div align="center">
-<img src="./assets/panda-coding.svg" width="100%"/>
-</div>
+## Hey, I'm Aryan 👋
+
+**Software Engineer** | Recent grad from University of Sydney | Building things that solve real problems
+
+I'm that engineer who ships MVPs in 8 weeks, not 8 months. Currently hunting for my next role where I can own features end to end and work with teams that move fast and iterate faster.
+
+### What I'm about
+
+I build full stack applications with a focus on backend systems and ML. Recently graduated with Honours in Software Engineering, where I spent way too much time optimizing K-means clustering algorithms (23% faster convergence, if you're curious).
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
-<div align="center">
-<img src="./assets/panda-sitting.svg" width="90%"/>
-</div>
+<img src="./assets/tech-visual.svg" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/bamboo-divider.svg" width="100%"/>
+<br/>
+
+<img src="./assets/divider-bamboo.svg" width="100%"/>
 
 <br/>
 
+<!-- QUICK HITS -->
 <div align="center">
 
-## 🥋
+## ⚡ Quick Hits
 
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+</div>
 
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
-![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Spring](https://img.shields.io/badge/SPRING-000000?style=for-the-badge&logo=spring&logoColor=FFFFFF)
+<table>
+<tr>
+<td width="50%">
 
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
+### 🏥 Led ML Team at Jacaranda Flame
+5-person team processing **100k+ healthcare records**. Optimized K-means clustering algorithms achieving **23% faster convergence**. Built automated data pipelines that reduced manual processing by **95%**.
 
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF)
-![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF)
-![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF)
+</td>
+<td width="50%">
+
+### 🤖 Built YAAKE AI Platform
+End-to-end AI recruitment platform with **Google Gemini integration**. Features: resume parsing, ATS scoring, mock interviews, cover letter generation. JWT auth, RBAC architecture, **10+ modules**.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 Shipped Over-save Budget Tracker
+Gamified budget tracking with expense management, savings goals, and financial insights. **Java + Spring Boot**, OAuth2, **15+ database tables**, **16 API endpoints**. Because tracking expenses should be less painful.
+
+</td>
+<td width="50%">
+
+### 🔧 Automated Workflows
+Built intelligent automation pipelines that **reduced manual processing by 95%**. Focused on data transformation, workflow optimization, and system integration.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/divider-bamboo.svg" width="100%"/>
+
+<br/>
+
+<!-- TECH STACK -->
+<div align="center">
+
+## 🥋 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00D9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00D9FF)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00D9FF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=00D9FF)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D9FF)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-000000?style=for-the-badge&logo=html5&logoColor=00D9FF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF)
+
+**Data & ML**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00D9FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF)
+![pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=00D9FF)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00D9FF)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00D9FF)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00D9FF)
 
 </div>
 
 <br/>
 
-<img src="./assets/bamboo-divider.svg" width="100%"/>
+<img src="./assets/divider-bamboo.svg" width="100%"/>
 
 <br/>
 
+<!-- FEATURED PROJECTS -->
 <div align="center">
 
-## 🎯
+## 🚀 Featured Projects
 
 </div>
 
-| 🤖 | 📦 |
-|---|---|
-| **[YAAKE](https://github.com/Aryan01101/YAAKE)** | AI recruitment platform with Google Gemini integration. Resume parsing, ATS scoring, mock interviews, cover letter generation. JWT auth, RBAC architecture. |
-| **ML Healthcare Analytics @ Jacaranda Flame** | Led 5-engineer team processing 100k+ healthcare records. K-means clustering optimization (23% faster convergence). Automated data pipelines. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 💰 | 🔧 |
-|---|---|
-| **[Over-save](https://github.com/Aryan01101/OVER-SAVE)** | Gamified budget tracker. Expense tracking, savings goals, financial insights. Java + Spring Boot, OAuth2, 15+ database tables, 16 API endpoints. |
-| **Automation Pipelines** | Reduced manual processing by 95% through intelligent workflow automation and data transformation systems. |
+### 🤖 [YAAKE - AI Recruitment Platform](https://github.com/Aryan01101/YAAKE)
+Full-stack AI-powered recruitment solution with Google Gemini API integration. Features include intelligent resume parsing, ATS compatibility scoring, AI-powered mock interviews, and automated cover letter generation.
+
+**Tech:** Python, React, Google Gemini API, JWT Auth, RBAC
+
+**Impact:** Streamlined hiring workflows with AI-driven candidate assessment
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 [Over-save - Budget Tracking App](https://github.com/Aryan01101/OVER-SAVE)
+Gamified personal finance platform with comprehensive expense tracking, budget management, savings goals, and financial insights. Built with enterprise-grade architecture.
+
+**Tech:** Java, Spring Boot, PostgreSQL, OAuth2, REST API
+
+**Scale:** 15+ database tables, 16 API endpoints, full CRUD operations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare ML Analytics
+Led 5-engineer team building ML system for processing 100k+ healthcare records. Implemented optimized K-means clustering with 23% faster convergence. Built automated ETL pipelines.
+
+**Tech:** Python, scikit-learn, pandas, SQL
+
+**Impact:** 95% reduction in manual data processing time
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Automation Pipelines
+Intelligent workflow automation and data transformation systems. Reduced manual processing overhead through smart pipeline design and integration.
+
+**Tech:** Python, SQL, REST APIs, Workflow Orchestration
+
+**Impact:** Scalable architecture for high-volume data processing
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="./assets/bamboo-divider.svg" width="100%"/>
+<img src="./assets/divider-bamboo.svg" width="100%"/>
 
 <br/>
+
+<!-- REPOSITORY STATS -->
+<div align="center">
+
+## 📦 Repository Statistics
+
+![Total Repos](https://badges.pufler.dev/repos/Aryan01101?style=for-the-badge&color=00D9FF&logo=github&logoColor=FFFFFF&labelColor=000000)
+![Total Stars](https://badges.pufler.dev/stars/Aryan01101?style=for-the-badge&color=00D9FF&logo=github&logoColor=FFFFFF&labelColor=000000)
+![Total Commits](https://badges.pufler.dev/commits/all/Aryan01101?style=for-the-badge&color=00D9FF&logo=github&logoColor=FFFFFF&labelColor=000000)
+![Years Active](https://badges.pufler.dev/years/Aryan01101?style=for-the-badge&color=00D9FF&logo=github&logoColor=FFFFFF&labelColor=000000)
+
+</div>
+
+<br/>
+
+<img src="./assets/divider-bamboo.svg" width="100%"/>
+
+<br/>
+
+<!-- PINNED REPO CARDS -->
+<div align="center">
+
+## 🎯 Pinned Repositories
+
+</div>
 
 <div align="center">
 
-## 📊
+[![YAAKE](https://github-readme-stats.vercel.app/api/pin/?username=Aryan01101&repo=YAAKE&theme=dark&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF&border_radius=10)](https://github.com/Aryan01101/YAAKE)
+[![Over-save](https://github-readme-stats.vercel.app/api/pin/?username=Aryan01101&repo=OVER-SAVE&theme=dark&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF&border_radius=10)](https://github.com/Aryan01101/OVER-SAVE)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan01101&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&border_color=000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan01101&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&border_color=000000" />
+</div>
+
+<br/>
+
+<img src="./assets/divider-bamboo.svg" width="100%"/>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan01101&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=false&border_color=00D9FF&radius=10)
+
+</div>
+
+<br/>
+
+<img src="./assets/divider-bamboo.svg" width="100%"/>
+
+<br/>
+
+<!-- CODING TIME & PATTERNS -->
+<div align="center">
+
+## ⏱️ Coding Activity & Patterns
+
+### WakaTime Stats
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aryan01101&layout=compact&theme=dark&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=00D9FF&border_radius=10&langs_count=8)](https://wakatime.com/@Aryan01101)
+
+<br/>
+
+### Commit Patterns
+
+![Commit Heatmap](https://ghchart.rshah.org/00D9FF/Aryan01101)
+
+</div>
+
+<br/>
+
+<img src="./assets/divider-bamboo.svg" width="100%"/>
+
+<br/>
+
+<!-- PROFILE SUMMARY CARDS -->
+<div align="center">
+
+## 🗂️ Detailed Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan01101&theme=github_dark" width="100%"/>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan01101&theme=github_dark" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryan01101&theme=github_dark" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan01101&theme=github_dark" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan01101&theme=github_dark" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider-bamboo.svg" width="100%"/>
+
+<br/>
+
+<!-- GITHUB METRICS -->
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aryan01101&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan01101&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF&border_radius=10" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan01101&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" />
-
-</div>
-
-<br/>
-
-<img src="./assets/bamboo-divider.svg" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## 🎓
-
-**Bachelor of Software Engineering (Honours)**
-*The University of Sydney*
-
-**Thesis:** Quantifying Urban Cooling Effectiveness: A Satellite Analysis of Sydney
-
-<br/>
-
-**🏢**
-
-Software Engineer @ Jacaranda Flame · Engineering Consulting @ Ampol
-Spatial AI Entrepreneur Intern @ EON Reality · Software Engineer @ AdGrowth Solutions
-
-<br/>
-
-**🌟**
-
-Marketing Director @ Sydney Computing Society (SYNCS)
-Student Ambassador NSW @ Engineers Australia
-PEP Program Mentor @ USYD
-
-<br/>
-
-*NSW Volunteer of the Year 2024*
-
-</div>
-
-<br/>
-
-<img src="./assets/bamboo-divider.svg" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## 🏃‍♂️
-
-**🧗 Bouldering** · Currently projecting V6s at local Sydney gyms
-**🏀 Basketball** · Pickup games most evenings
-*Problem solving mindset translates across domains*
-
-</div>
-
-<br/>
-
-<img src="./assets/bamboo-divider.svg" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-<sub>SEEKING SOFTWARE ENGINEERING ROLES IN AUSTRALIA</sub>
-<sub>OPEN TO: FULL STACK · AI/ML · BACKEND SYSTEMS · STARTUP ENVIRONMENTS</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan01101&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=10" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aryan01101&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=FFFFFF" />
-
-</div>
-
-<br/>
-
-<img src="./assets/bamboo-divider.svg" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-## 🐍
-
+<!-- Contribution snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/panda-contribution-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/panda-contribution-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/panda-contribution-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aryan01101/Aryan01101/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 <br/>
 
-<img src="./assets/bamboo-divider.svg" width="100%"/>
+<img src="./assets/divider-bamboo.svg" width="100%"/>
 
 <br/>
 
+<!-- BACKGROUND & EXPERIENCE -->
 <div align="center">
 
-```
-  🐼
- /||\    Shipping code, solving problems
-  ||     One bamboo stick at a time
- /  \
-```
+## 🎓 Background & Experience
+
+</div>
+
+### Education
+
+**Bachelor of Software Engineering (Honours)** — The University of Sydney
+
+*Thesis:* Quantifying Urban Cooling Effectiveness: A Satellite Analysis of Sydney
+
+### Work Experience
+
+**Software Engineer** @ Jacaranda Flame
+- Led 5-engineer ML team processing 100k+ healthcare records
+- Optimized K-means clustering algorithms (23% faster convergence)
+- Built automated data pipelines reducing manual work by 95%
+
+**Engineering Consultant** @ Ampol
+- Delivered technical consulting on engineering systems and processes
+
+**Spatial AI Entrepreneur Intern** @ EON Reality
+- Developed spatial computing and AI integration solutions
+
+**Software Engineer Intern** @ AdGrowth Solutions
+- Built full-stack features and implemented REST APIs
+
+### Leadership & Community
+
+**Marketing Director** — Sydney Computing Society (SYNCS)
+
+**Student Ambassador NSW** — Engineers Australia
+
+**PEP Program Mentor** — University of Sydney
+
+**Core Executive** — Biotech Futures
+
+<div align="center">
+
+🏆 **NSW Volunteer of the Year 2024**
+
+</div>
+
+<br/>
+
+<img src="./assets/divider-bamboo.svg" width="100%"/>
+
+<br/>
+
+<!-- OUTSIDE OF CODE -->
+<div align="center">
+
+## 🏃‍♂️ Outside of Code
+
+</div>
+
+When I'm not shipping code, you'll find me:
+
+**🧗 Bouldering** — Currently projecting V6s at local Sydney gyms. Same problem-solving mindset, different kind of problems. The process of breaking down a route, trying different approaches, failing fast, and iterating until you stick the send translates directly to how I approach software engineering.
+
+**🏀 Basketball** — Pickup games most evenings. Team dynamics, quick decision-making under pressure, and adapting strategy on the fly.
+
+Both taught me that the best solutions come from trying things, failing fast, and iterating. Plus they keep me from turning into a keyboard permanently.
+
+<br/>
+
+<img src="./assets/divider-bamboo.svg" width="100%"/>
+
+<br/>
+
+<!-- FOOTER CTA -->
+<div align="center">
+
+## 💼 Let's Connect
+
+**Looking for software engineering roles in Australia**
+
+I'm actively seeking opportunities where I can own features end to end, work with teams that move fast, and build products that solve real problems. If you're building something interesting or just want to chat about **ML**, **full stack development**, or the best **bouldering spots in Sydney**, hit me up.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aryan-adhikari-3051721aa/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000"></a>
+<a href="mailto:aadhikari678@outlook.com"><img src="https://img.shields.io/badge/Email-aadhikari678@outlook.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000"></a>
+
+<br/><br/>
+
+<sub>**Open to:** Full Stack · Backend Systems · ML Engineering · Startup Environments</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aryan01101&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=000000" />
+
+<br/><br/>
+
+*Currently: Applying to roles, building side projects, and trying not to overthink my job search (it's harder than it sounds)*
 
 </div>
