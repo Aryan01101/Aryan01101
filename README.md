@@ -8,7 +8,7 @@ I build full-stack systems with AI where it actually earns its place.
 
 ## Featured build
 
-### [Lumina ✨](YOUR_LUMINA_LINK)
+### [Lumina ✨](https://github.com/Aryan01101/Lumina)
 
 A local AI companion that understands what you’re working on and checks in with context.
 
@@ -21,11 +21,9 @@ It sees the file you’re working on. Nothing else.
 
 > The project I’ve spent the most time thinking about, breaking, rebuilding and refusing to leave at “good enough.”
 
-[Demo](YOUR_DEMO_LINK) · [Source](YOUR_LUMINA_LINK) · [Architecture](YOUR_ARCHITECTURE_LINK)
+[Source](https://github.com/Aryan01101/Lumina)
 
-<!-- Add a screenshot when the UI is ready:
-![Lumina preview](./assets/lumina-preview.png)
--->
+
 
 ---
 
@@ -43,16 +41,16 @@ Systems that survive past “works on my machine.”
 
 ## How I build
 
-Clear problem before clever solution.
+1. Clear problem before clever solution.
 
-Boring architecture when boring wins.
+2. Boring architecture when boring wins.
 
-Good defaults over long documentation.
+3. Good defaults over long documentation.
 
-Ship it. Question it. Rebuild the suspicious parts.
+4. Ship it. Question it. Rebuild the suspicious parts.
 
 ---
 
 ## Elsewhere
 
-[Portfolio](YOUR_PORTFOLIO_LINK) · [LinkedIn](YOUR_LINKEDIN_LINK)
+[Portfolio](https://aryan-adhikari.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/aryan-adhikari-3051721aa/)
